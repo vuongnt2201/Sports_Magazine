@@ -1,2 +1,2 @@
-# Sports_Magazine
+# Sports Magazine
 A magazine website about sports
